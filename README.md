@@ -51,4 +51,4 @@ BlindGate is an iOS application designed to assist blind and visually impaired i
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/VisionAid.git
+   git clone https://github.com/sandy787/blindgate.git
