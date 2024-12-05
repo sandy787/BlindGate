@@ -11,12 +11,11 @@ BlindGate is an iOS application designed to assist blind and visually impaired i
 - **User-Friendly Interface**: Minimalistic design with gesture-based controls for easy navigation.
 
 ---
-## Screenshots
+### Home Screen
+<img src="screenshots/s1.png" alt="Home Screen" width="400"/>
 
-![Home Screen](screenshots/s1.png)
-
-
-![Object Detection](screenshots/s2.png)
+### Object Detection in Action
+<img src="screenshots/s2.png" alt="Object Detection" width="400"/>
 
 -------------
 ## Technology Stack
